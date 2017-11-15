@@ -1,5 +1,8 @@
 # jenkins
-npm jenkins docker https://hub.docker.com/r/chiminyau/jenkins/
+jenkins with npm and docker
+## docker hub
+https://hub.docker.com/r/chiminyau/jenkins/
+
 ## docker compose
 ```yaml
 jenkins:
